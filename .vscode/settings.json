@@ -1,0 +1,15 @@
+{
+    "liveServer.settings.multiRootWorkspaceName": "NNET",
+    "eslint.trace.server": "off",
+  
+    // Настройки Python
+    "python.pythonPath": "C:\\Users\nephelim\\Desktop\\skill\\NNET\\venv\\Scripts\\python.exe", // Укажите путь к интерпретатору Python
+    "python.languageServer": "Pylance", // Использовать Pylance как Language Server
+    "python.analysis.autoSearchPaths": true, // Автоматически искать пути для анализа
+    "python.analysis.useLibraryCodeForTypes": true, // Использовать типы из библиотек
+    "python.linting.enabled": true, // Включить линтинг
+    "python.linting.pylintEnabled": true, // Включить Pylint
+    "python.linting.flake8Enabled": false, // Отключить Flake8 (если не используете)
+    "python.linting.mypyEnabled": false, // Отключить Mypy (если не используете)
+    "python.terminal.activateEnvironment": true // Автоматически активировать виртуальную среду
+  }
